@@ -36,4 +36,5 @@
     * [Switch](docs/Button按钮组件/Switch.md)
 * [ProgressBar进度条](docs/ProgressBar进度条.md)
 * [Spinner忙时状态](docs/Spinner忙时状态.md)
+* [使用GtkBuilder设计Gtk+界面](docs/使用GtkBuilder设计Gtk+界面.md)
 
